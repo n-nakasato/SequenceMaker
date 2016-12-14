@@ -1,0 +1,7 @@
+﻿2016-02-22 14:24:28.548,SEQ,PROC,System,System,1,S,System Start
+2016-02-22 14:24:29.054,SEQ,MTX,TaskA,TaskA,2,S,Idle
+2016-02-22 14:24:30.054,SEQ,MSG,TaskA,TaskB,3,S,Request(A),Opt1=On Opt2=Off
+2016-02-22 14:24:31.273,SEQ,MSG,TaskB,TaskA,4,S,Request(A)
+2016-02-22 14:24:32.780,SEQ,MSG,TaskA,TaskA,5,S,Timer1 Timeout
+2016-02-22 14:24:33.073,SEQ,MTX,TaskA,TaskA,6,S,System Error
+2016-02-22 14:24:34.548,SEQ,PROC,System,System,7,S,System Shutdown

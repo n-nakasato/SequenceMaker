@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<色オプション>
+  <項目 Enable="True" 文字色="-16711872" 背景色="-16777216">System Start</項目>
+  <項目 Enable="True" 文字色="-16711872" 背景色="-16777216">System Shutdown</項目>
+  <項目 Enable="True" 文字色="-1" 背景色="-65536">System Error</項目>
+</色オプション>
